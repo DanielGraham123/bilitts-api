@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "bilitts",
+    "api_key": "126378773221852",
+    "api_secret": "TO-204LDGe7S_6RwvHBJTskcEjU"
+  }
+}
